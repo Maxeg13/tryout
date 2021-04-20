@@ -8,3 +8,4 @@ new change
 no function
 strange change
 change 1
+change 2
