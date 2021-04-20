@@ -6,3 +6,4 @@ no function
 master change
 new change
 no function
+strange change
