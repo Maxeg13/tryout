@@ -7,3 +7,4 @@ master change
 new change
 no function
 strange change
+change 1
