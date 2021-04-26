@@ -17,5 +17,4 @@ new local changes
 and smth else
 
 
-merge stuff is here
-aftermerge 
+new merge
